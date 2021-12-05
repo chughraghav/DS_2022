@@ -48,6 +48,7 @@ def minimal_array_len(list_numbers, max_sum):
     return min_length
 
 
+
 if __name__ == '__main__':
     s = 7
     nums = [2, 3, 1, 2, 4, 3]
